@@ -24,3 +24,4 @@ The total volume of the stock traded over the year with ticker symbol
 Apply conditional formatting to highlight a yearly increase in the stock price in green, and a decrease in the stock price in red.
 
 Identify the stock with the greatest percentage increase in its price; the stock that suffered the greatest percentage decrease in its price; and finally, identify the stock with the greatest trade volume.
+
