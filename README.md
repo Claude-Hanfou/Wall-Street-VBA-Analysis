@@ -17,7 +17,7 @@ VBA Exercise - The VBA of Wall Street
 
 * Yearly change from the stock price at the beginning of the year to the price at the end of the year.
 
-⋅* The percent change in that stock’s price from the beginning of the year to the end.
+* The percent change in that stock’s price from the beginning of the year to the end.
 
 * The total volume of the stock traded over the year with ticker symbol
 
