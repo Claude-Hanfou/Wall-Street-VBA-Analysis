@@ -6,7 +6,7 @@ This is an analysis of real stock market data using VBA scripting.
 
 ## Files
 
-1. A word document with stock date screenshots for 2016,2015 and 2014
+1. A document with stock date screenshots for 2016,2015 and 2014
 2. VBA script.
 
 ### Objective
